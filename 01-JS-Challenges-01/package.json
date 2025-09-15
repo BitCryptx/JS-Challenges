@@ -1,0 +1,15 @@
+{
+  "name": "01-js-challenges-01",
+  "version": "1.0.0",
+  "main": "Hello-World.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "jest": "^30.1.3"
+  }
+}
